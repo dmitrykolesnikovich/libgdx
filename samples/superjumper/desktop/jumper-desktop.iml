@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/assets" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="jumper-core" exported="" />
+    <orderEntry type="module" module-name="gdx-backend-lwjgl" exported="" />
+    <orderEntry type="library" exported="" name="gdx-backend-lwjgl-natives" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="gdx-natives">
+        <CLASSES />
+        <JAVADOC />
+        <NATIVE>
+          <root url="jar://$MODULE_DIR$/../../../gdx/libs/gdx-natives.jar!/" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
