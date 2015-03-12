@@ -1,0 +1,4 @@
+1. 
+Сделать нормальный API для шрифтов
+
+com.badlogicgames.superjumper.HighscoresScreen.draw():78 com.badlogic.gdx.graphics.g2d.BitmapFont.draw(Batch batch, CharSequence str, float x, float y)
