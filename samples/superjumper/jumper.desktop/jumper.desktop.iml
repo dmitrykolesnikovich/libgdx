@@ -8,7 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="jumper-core" exported="" />
+    <orderEntry type="module" module-name="jumper" exported="" />
     <orderEntry type="module" module-name="gdx-backend-lwjgl" exported="" />
     <orderEntry type="library" exported="" name="gdx-backend-lwjgl-natives" level="project" />
     <orderEntry type="module-library" exported="">
